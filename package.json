@@ -1,20 +1,19 @@
 {
-  "name": "react-native-google-places",
+  "name": "@nlabs/react-native-google-places",
   "description": "iOS/Android Google Places Widgets (Autocomplete, Place Picker) and API Services for React Native Apps",
   "main": "index.js",
   "author": "Tolu Olowu (Arttitude 360) <tolu@arttitude360.com>",
   "version": "2.4.2",
-  "scripts": {
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/tolu360/react-native-google-places"
+    "url": "https://github.com/nitrogenlabs/react-native-google-places"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tolu360/react-native-google-places/issues"
+    "url": "https://github.com/nitrogenlabs/react-native-google-places/issues"
   },
-  "homepage": "https://github.com/tolu360/react-native-google-places#readme",
+  "homepage": "https://github.com/nitrogenlabs/react-native-google-places#readme",
   "keywords": [
     "react",
     "react-native",
@@ -31,6 +30,5 @@
     "react": ">=15.4.0 || ^16.0.0-alpha",
     "react-native": ">=0.40.0"
   },
-  "devDependencies": {
-  }
+  "devDependencies": {}
 }
